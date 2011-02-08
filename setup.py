@@ -13,7 +13,7 @@ setup(
     version = "0.1.0",
     author = "Thom Linton",
     author_email = "thom.linton@gmail.com",
-    description = "A painfully simple Django application to statically generate a maintenance landing page."
+    description = "A painfully simple Django application to statically generate a maintenance landing page.",
     license = "BSD",
     keywords = "",
     url = "http://github.com/yorkedork/django-downtime/tree/master",
